@@ -1,4 +1,4 @@
-Analysis of the bank's customer churn
+Analysis of the bank's customer churn. Final project at Yandex.Practicum
 
 
 Libraries that were used:
